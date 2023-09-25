@@ -1,4 +1,4 @@
 deployments:
-  - destination: /home/wchcoke/repositories/WCH
+  - destination: /home/wchcoke/public_html
     repo: /home/wchcoke/repositories/WCH
     branch: main
