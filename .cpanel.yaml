@@ -1,0 +1,4 @@
+deployments:
+  - destination: /home/wchcoke/repositories/WCH
+    repo: /home/wchcoke/repositories/WCH
+    branch: main
